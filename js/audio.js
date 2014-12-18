@@ -1,3 +1,5 @@
+'use strict';
+
 var Audio = Stapes.subclass({
 
   constructor: function() {

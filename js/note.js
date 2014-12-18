@@ -1,3 +1,5 @@
+'use strict';
+
 var Note = Stapes.subclass({
 
   constructor: function(config) {
